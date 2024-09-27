@@ -1,0 +1,3 @@
+/home/dizzy/Projects/project-gl/build/CMakeFiles/project-gl.dir
+/home/dizzy/Projects/project-gl/build/CMakeFiles/edit_cache.dir
+/home/dizzy/Projects/project-gl/build/CMakeFiles/rebuild_cache.dir
